@@ -1,5 +1,4 @@
-/*
-// commenting because i feel pyspark in codespace dev container is abit slow
+
 {
     "name": "My PySpark Dev Container",
     "settings": {
@@ -7,9 +6,7 @@
     },
     "extensions": [
         "ms-python.python",
-        "ms-toolsai.jupyter",
-        "GitHub.github-vscode-theme"
+        "ms-toolsai.jupyter"
     ],
     "postCreateCommand": "pip install pyspark pandas matplotlib seaborn"
 }
-*/
