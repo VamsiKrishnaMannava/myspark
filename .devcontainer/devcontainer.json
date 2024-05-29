@@ -8,5 +8,5 @@
         "ms-python.python",
         "ms-toolsai.jupyter"
     ],
-    "postCreateCommand": "pip install pyspark pandas matplotlib seaborn"
+    "postCreateCommand": "pip install pyspark" // pandas matplotlib seaborn"
 }
