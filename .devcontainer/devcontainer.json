@@ -1,3 +1,5 @@
+/*
+// commenting because i feel pyspark in codespace dev container is abit slow
 {
     "name": "My PySpark Dev Container",
     "settings": {
@@ -10,4 +12,4 @@
     ],
     "postCreateCommand": "pip install pyspark pandas matplotlib seaborn"
 }
-
+*/
